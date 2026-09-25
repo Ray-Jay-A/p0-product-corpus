@@ -75,6 +75,13 @@ p0-产品语料库/
 └── output/
     └── product_corpus.md
 ```
+## 效果演示
+
+> 从字段混乱的原始 Excel，到运行一次脚本生成的结构化语料库。
+
+![原始数据](images/01-input-excel.png)
+![运行脚本](images/02-run.png)
+![生成的语料库](images/03-output.png)
 
 ---
 
